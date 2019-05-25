@@ -1,0 +1,3 @@
+<view >
+  <button bindtap="toPage">top</button>
+</view>

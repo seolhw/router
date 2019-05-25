@@ -1,0 +1,3 @@
+<view>
+  <button bindtap="backPage">返回到index页面</button>
+</view>

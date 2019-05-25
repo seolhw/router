@@ -1,0 +1,3 @@
+<view>
+  <button bindtap="toPage">跳转top</button>
+</view>
